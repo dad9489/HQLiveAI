@@ -4,6 +4,6 @@ Requirements:
 PIL
 pytesseract
 pygetwindow
-
+pyautogui
 
 Requires using ApowerMirror to mirror the phone screen
